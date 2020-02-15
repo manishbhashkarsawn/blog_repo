@@ -26,7 +26,7 @@ SECRET_KEY = 'z=&ohms+=&17aw(&*gsl7g%6l2wl=b)0%f_tm&#8(6h-(_ucu8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['manishblogs.pythonanywhere.com',]
 
 # Application definition
 
